@@ -1,0 +1,6 @@
+{
+	"appId": "com.crunch.calculator",
+	"appName": "Crunch Calculator",
+	"webDir": "dist",
+	"packageClassList": []
+}

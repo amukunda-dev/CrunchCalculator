@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Crunch Calculator</string>
+    <string name="title_activity_main">Crunch Calculator</string>
+    <string name="package_name">com.crunch.calculator</string>
+    <string name="custom_url_scheme">com.crunch.calculator</string>
+</resources>

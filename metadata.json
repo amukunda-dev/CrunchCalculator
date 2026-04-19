@@ -1,0 +1,6 @@
+{
+  "name": "Crunch Calculator",
+  "description": "A precision engineering calculator with 64-bit programmer mode and interactive data grid.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
